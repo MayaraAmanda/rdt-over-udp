@@ -1,0 +1,3 @@
+public enum EstadoConexao {
+    HANDSHAKE_1, HANDSHAKE_2, ESTABELECIDA, FINALIZAR_1, FINALIZAR_2;
+}
